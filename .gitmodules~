@@ -1,0 +1,3 @@
+[submodule "ContinuousGNN"]
+	path = ContinuousGNN
+	url = https://github.com/DeepGraphLearning/ContinuousGNN.git
